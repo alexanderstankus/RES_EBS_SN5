@@ -26,3 +26,5 @@ This PCB is designed to interface with an STM32 MCU and CAN-BUS to control and m
 *3D model of the RES+EBS V2 PCB featuring the Panasonic safety relay and MicroBasic interface.*
 
 Designed on Altium Designer by Alexander Stankus and Miles Kessner 
+GitHub: @alexanderstankus
+Email: alexstankus99@gmail.com
